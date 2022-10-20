@@ -1,1 +1,1 @@
-## .gama-Files for the Spatial Simulation courseworks 
+## .gaml-Files for the Spatial Simulation courseworks 
